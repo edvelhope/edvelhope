@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edoardo</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on [PetVerse](https://github.com/develhope/FS26-Team4-Project3.git) the ultimate social hangout for our furry (and not so furry) friends!
-
 - 📫 How to reach me **edoardoderosaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
